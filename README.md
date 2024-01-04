@@ -1,7 +1,7 @@
 <h1 align="center">Construção de uma API-Rest com testes de integração</h1>
 
 <p align="center">
-API desenolvida para o aprendizado e prática no uso de ferramentas de mercado. Seu funcionamento consiste em: (Criar, Ler, Atualizar e deletar) o famoso CRUD. O ponto alto fica a cargo dos testes de integração utilizando feature como Jest.
+API desenvolvida para o aprendizado e prática no uso de ferramentas de mercado. Seu funcionamento consiste em: (Criar, Ler, Atualizar e deletar) o famoso CRUD. O ponto alto fica a cargo dos testes de integração utilizando feature como Jest.
 </p>
 
 ## 🚀 Tecnologias
